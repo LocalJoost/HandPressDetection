@@ -13,11 +13,4 @@ MonoBehaviour:
   m_Name: AppRegisteredServiceProvidersProfile
   m_EditorClassIdentifier: 
   isCustomProfile: 1
-  configurations:
-  - componentType:
-      reference: Microsoft.MixedReality.Toolkit.Extensions.HandPhysics.HandPhysicsService,
-        Microsoft.MixedReality.Toolkit.Extensions.HandPhysics
-    componentName: HandPhysicsService
-    priority: 10
-    runtimePlatform: -1
-    configurationProfile: {fileID: 11400000, guid: 618b6f112335a3d47aacc5fffebb7596, type: 2}
+  configurations: []
